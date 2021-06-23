@@ -1,0 +1,14 @@
+com/xchange/MainActivity.java
+ com.xchange.MainActivity
+com/xchange/BuildConfig.java
+ com.xchange.BuildConfig
+com/xchange/ReactNativeFlipper.java
+ com.xchange.ReactNativeFlipper
+ com.xchange.ReactNativeFlipper$1
+ com.xchange.ReactNativeFlipper$2
+ com.xchange.ReactNativeFlipper$2$1
+com/xchange/MainApplication.java
+ com.xchange.MainApplication
+ com.xchange.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

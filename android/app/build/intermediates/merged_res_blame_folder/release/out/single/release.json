@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_romania.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_romania.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_japan.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_japan.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_korea.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_korea.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_brazil.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_brazil.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_iceland.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_iceland.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_denmark.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_denmark.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_poland.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_poland.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_turkey.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_turkey.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_hungary.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_hungary.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_bulgaria.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_bulgaria.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_switzerland.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_switzerland.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_croatia.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_croatia.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_ukraine.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_ukraine.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_singapore.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_singapore.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_bohemia.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_bohemia.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_norway.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_norway.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_hongkong.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_hongkong.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_sweden.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_sweden.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_russia.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_russia.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_chile.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_chile.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_europeanunion.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_europeanunion.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mako/Documents/xchange/android/app/build/intermediates/res/merged/release/drawable-mdpi_share_public_img_mexico.png.flat",
+        "source": "/home/mako/Documents/xchange/android/app/build/generated/res/react/release/drawable-mdpi/share_public_img_mexico.png"
+    }
+]
